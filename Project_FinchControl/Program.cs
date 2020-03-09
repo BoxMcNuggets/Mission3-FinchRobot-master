@@ -490,7 +490,6 @@ namespace Project_FinchControl
             Console.WriteLine();
             Console.WriteLine("Current Data");
             DataRecorderDisplayTable(temperatures);
-
             Console.WriteLine();
             Console.WriteLine($"Average Tempurature: {temperatures.Average()}");
 
