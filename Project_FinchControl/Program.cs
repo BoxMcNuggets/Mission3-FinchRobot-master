@@ -117,6 +117,13 @@ namespace Project_FinchControl
             } while (!quitApplication);
         }
 
+        #region PERSISTENCE
+
+
+
+
+        #endregion
+
         #region ALARM SYSTEM
 
         static void LightAlarmDisplayMenuScreen(Finch finchRobot)
